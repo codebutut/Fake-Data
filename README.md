@@ -1,4 +1,4 @@
-# **This code using "Faker" lib to generate details. 
+# **This code using "Faker" to generate details. 
 
 ## _How to_
 1. install requirements `pip install -r requirements.txt`
